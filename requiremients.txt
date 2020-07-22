@@ -1,0 +1,5 @@
+urlexpander
+bs4
+pandas
+tqdm
+matplotlib
